@@ -2,6 +2,7 @@
 - 👀 I’m interested in learning new skills about JS and React
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 📫 How to reach me: follow me on LinkedIn!
+- 🚗 Ask me about Subaru and Driving! ;)
 
 
 <div>
