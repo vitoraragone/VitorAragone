@@ -1,4 +1,4 @@
-- 👋 <p style="font-size: 16px">Hi, I’m Vitor!</p> 
+- 👋 <p style="font-size: 30px">Hi, I’m Vitor!</p> 
 - 👀 I’m interested in learning new skills about JS and React
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 📫 How to reach me: follow me on LinkedIn!
