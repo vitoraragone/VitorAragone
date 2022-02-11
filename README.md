@@ -1,6 +1,6 @@
 - 👋 Hi, I’m <strong>Vitor</strong>! 
 - 👀 I’m interested in learning new skills about JS and React
-- 🌱 I’m currently learning <em>HTML, CSS and JavaScript, Librarys, APIs and More!</em>
+- 🌱 I’m currently learning <em>HTML, CSS and JavaScript, Libraries, APIs and More!</em>
 - 📫 How to reach me: follow me on LinkedIn!
 - 🚗 Ask me about Subaru, Assetto Corsa and Driving! ;)
 
