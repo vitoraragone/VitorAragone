@@ -1,6 +1,6 @@
 - 👋 Hi, I’m <strong>Vitor</strong>! 
 - 👀 I’m interested in learning new skills about Front-End Developing
-- 🌱 I’m currently learning <em>HTML, CSS and JavaScript, Libraries, APIs and More!</em>
+- 🌱 I’m currently learning <em>HTML, CSS, JavaScript, Libraries, APIs and More!</em>
 - 📫 How to reach me: follow me on LinkedIn or Instagram!
 - 🚗 And you can ask me anything about cars :)
 
@@ -19,7 +19,7 @@
                                                                                                                      
   
  
-<div> 
+<div align="center"> 
  <a href="https://www.linkedin.com/in/vitor-aragone-64aa20188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <!---
