@@ -1,6 +1,6 @@
 - 👋 Hi, I’m <strong>Vitor</strong>! 
 - 👀 I’m interested in learning new skills about Front-End Developing
-- 🌱 I’m currently learning <em>HTML, CSS, JavaScript, Libraries, APIs and More!</em>
+- 🌱 I’m currently learning <em>TypeScript, React, NextJs and more!</em>
 - 📫 How to reach me: follow me on LinkedIn or Instagram!
 - 🚗 And you can ask me anything about cars :)
 
